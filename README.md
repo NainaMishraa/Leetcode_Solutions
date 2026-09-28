@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/NainaMishraa/Leetcode_Solutions/tree/master/0704-binary-search) |
 | [1310-xor-queries-of-a-subarray](https://github.com/NainaMishraa/Leetcode_Solutions/tree/master/1310-xor-queries-of-a-subarray) |
 ## Bit Manipulation
 |  |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1310-xor-queries-of-a-subarray](https://github.com/NainaMishraa/Leetcode_Solutions/tree/master/1310-xor-queries-of-a-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/NainaMishraa/Leetcode_Solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
