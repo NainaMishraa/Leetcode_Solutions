@@ -28,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/NainaMishraa/Leetcode_Solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/NainaMishraa/Leetcode_Solutions/tree/master/0078-subsets) |
+## Math
+|  |
+| ------- |
+| [1922-count-good-numbers](https://github.com/NainaMishraa/Leetcode_Solutions/tree/master/1922-count-good-numbers) |
+## Recursion
+|  |
+| ------- |
+| [1922-count-good-numbers](https://github.com/NainaMishraa/Leetcode_Solutions/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
