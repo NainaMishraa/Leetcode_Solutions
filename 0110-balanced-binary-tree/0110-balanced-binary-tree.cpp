@@ -26,7 +26,7 @@ public:
     bool isBalanced(TreeNode* root) {
         int ans = 0;
         ans = helper(root);
-        if (ans > 6000) return false;
+        if (ans >= 1e6) return false;
         return true;
         
     }
