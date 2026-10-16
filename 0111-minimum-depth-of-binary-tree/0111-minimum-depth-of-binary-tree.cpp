@@ -21,6 +21,7 @@ public:
     }
     int minDepth(TreeNode* root) {
         int ans;
+        if (root == nullptr) return 0;
         ans = helper(root);
         return ans;
     }
